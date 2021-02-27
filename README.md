@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there My name is Donghyeok, I am CS student👋
+
+### Connect
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:jdhyeok97@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/donghyeok-jang-03a4891a5/)
+
+### 💬 Languages and Tools:
+
+
 
 <!--
 **JDhyeok/JDhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

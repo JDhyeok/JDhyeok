@@ -1,4 +1,4 @@
-### Hi there My name is Donghyeok, I am a CS student👋
+### Hi there! My name is Donghyeok, I am a CS student👋
 
 ### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdhyeok97@gmail.com)](mailto:jdhyeok97@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donghyeok-jang-03a4891a5/)](https://www.linkedin.com/in/donghyeok-jang-03a4891a5/)    [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jd.hyeok/)](https://www.instagram.com/jd.hyeok/)

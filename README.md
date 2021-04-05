@@ -1,4 +1,4 @@
-### Hi there! My name is Donghyeok👋
+### Hi there!  Donghyeok👋
 
 
 ### 📫 Contact
